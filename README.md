@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @chakrabortydeep
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Frontend Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me deep225870@gmail.com
+- 😄 Pronouns: He/Him
+
 
 <!---
 chakrabortydeep/chakrabortydeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
